@@ -1,0 +1,9 @@
+# nav2_sonar_costmap_plugin
+
+# References
+- Nav2 Range Layer
+https://navigation.ros.org/configuration/packages/costmap-plugins/range.html
+
+
+- Writing a New Costmap2D Plugin
+https://navigation.ros.org/plugin_tutorials/docs/writing_new_costmap2d_plugin.html

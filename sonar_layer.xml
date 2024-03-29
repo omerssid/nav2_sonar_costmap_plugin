@@ -1,0 +1,5 @@
+<library path="nav2_sonar_costmap_plugin_core">
+  <class name="nav2_sonar_costmap_plugin/SonarLayer" type="nav2_sonar_costmap_plugin::SonarLayer" base_class_type="nav2_costmap_2d::Layer">
+    <description>This is an example plugin which puts repeating costs sonar to costmap</description>
+  </class>
+</library>
